@@ -1,0 +1,7 @@
+_ReSharper.*
+*.[Rr]eSharper.user
+marsrovers/[Bb]in
+marsrovers/[Oo]bj
+*.user
+*.suo
+[Tt]humbs.db
